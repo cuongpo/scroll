@@ -1,4 +1,4 @@
-* Network: https://prealpha.scroll.io/ 
+* Link add network: https://prealpha.scroll.io/ 
 
 
 * Scroll L2 Testnet
